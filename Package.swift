@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Turf",
-            url: "https://github.com/nhatpham0301/vietmap-speech/raw/main/Turf.xcframework.zip",
+            url: "https://github.com/nhatpham0301/vietmap-turf-swift/raw/main/Turf.xcframework.zip",
             checksum: "3ba57c11f26f084d2f4c2e6ccc0317a97d9895aa02e909705a2197e827a52625")
             ]
 )
